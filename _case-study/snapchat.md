@@ -12,7 +12,7 @@ tags:
   - social-network
 gallery:
    - image_url: /images/snapchat-history.jpg
-    caption: "To λογότυπο πέρασε απο πολλές αλλαγες πριν καταλύξει στο minimal πουλί που είναι σήμερα"
+    caption: "To λογότυπο πέρασε απο πολλές αλλαγες πριν καταλύξει στο logo που έχει σήμερα"
   
 ---
 

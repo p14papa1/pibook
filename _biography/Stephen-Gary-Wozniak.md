@@ -13,4 +13,4 @@ tags:
 
 {% include_relative bio-wozniak.md %}
 
-{% include slides.html %}
+

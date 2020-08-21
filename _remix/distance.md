@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Distance Converter
-header: no
 categories:
   - distance
   - converter

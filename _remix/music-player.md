@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Music Player
-header: no
 categories:
-  - forms
+  - music
+  - player
 tags:
   - music
   - player
